@@ -1,0 +1,9 @@
+{
+    "sender_email": "",
+    "smtp_server": "",
+    "smtp_port": "",
+    "login": "",
+    "password": "",
+    "text": "your message",
+    "subject": "your subject"
+}
