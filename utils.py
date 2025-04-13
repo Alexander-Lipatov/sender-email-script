@@ -15,7 +15,6 @@ async def send_email_async(
     login: str,
     password: str
 ):
-    # Создаем объект MIMEMultipart
     msg = MIMEMultipart()
     msg['From'] = sender_email
     msg['To'] = receiver_email
